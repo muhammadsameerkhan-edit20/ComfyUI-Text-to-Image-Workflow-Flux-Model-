@@ -217,7 +217,7 @@ flux1-dev-fp8.safetensors
 - GPU with **8GB+ VRAM**
 
 ---
-
+<img width="1272" height="703" alt="Image" src="https://github.com/user-attachments/assets/c4d10d1b-2a62-41d1-b31f-0a65b4c1a20f" />
 # How to Use
 
 ## 1. Install ComfyUI
@@ -245,4 +245,3 @@ AI Workflow Engineer
 
 GitHub:
 https://github.com/muhammadsameerkhan-edit20
-
